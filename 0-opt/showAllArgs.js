@@ -5,6 +5,8 @@
 // Hint `process.argv`
 
 function main() {
+    // megvaltozott
+    console.log(process.argv);
 }
 
 main()
