@@ -5,6 +5,7 @@
 // Hint `process.argv`
 
 function main() {
+    console.log(process.argv);
 }
 
 main()
